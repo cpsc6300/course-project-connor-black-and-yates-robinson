@@ -1,9 +1,9 @@
 # TITLE: Predicting Home Run Leader for 2021 MLB Season
-## Team Members: Samuel Connor Black and Yates Robinson
+## Team Members: Samuel Connor Black, Yates Robinson
 ## Date: October 22, 2020
 
 # Project Description
-## Probelm Statement and Motivation
+## Problem Statement and Motivation
 This project aims to predict the Home Run Leader for the MLB in the next year according to previous years’ player statistics to have a better idea of which player will lead the league. Growing up playing baseball and watching the MLB has interested us since we were kids and wish to develop a closer understanding of player growth and predictions. These predictive models could potentially net us money based on selling this predictive solution to professional sports networks or betting companies.
 
 ## Introduction and Description of Data
@@ -15,12 +15,12 @@ Our plan to accomplish this prediction is to find the current longest active pla
 **Meeting Times**: <br>
 We plan to have roughly 1-2 2-hour work period(s) every week on Monday/Wednesday to achieve our goals. <br>
 
-**Resources**: <br>
+**Resources**: 
 * MongoDB <br>
 * MkDocs <br>
 * Viola <br> <br>
 
-**Milestones**: <br>
+**Milestones**: 
 * Interim Report (Nov 12, 2020) <br>
 * Website and Final Report (Dec 10, 2020) <br>
 * Notebooks and Other Supporting Materials (Dec 10, 2020) <br>
@@ -28,10 +28,11 @@ We plan to have roughly 1-2 2-hour work period(s) every week on Monday/Wednesday
  
 
 # References:
-We plan to retrieve data from: <br>
+We plan to retrieve data from: 
 * https://www.mlb.com/ <br>
-* https://www.baseball-reference.com/ <br> <br>
-We plan to use: <br>
+* https://www.baseball-reference.com/ <br> <br> 
+
+We plan to use: 
 * https://www.mongodb.com/ <br>
 * http://palmetto.clemson.edu/ <br>
 * https://www.palmetto.clemson.edu/jhub/hub/ <br>
