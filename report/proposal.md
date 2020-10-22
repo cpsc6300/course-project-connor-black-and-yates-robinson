@@ -14,12 +14,12 @@ Our plan to accomplish this prediction is to find the current longest active pla
 
 Meeting Times: We plan to have roughly 1-2 2-hour work period(s) every week on Monday/Wednesday to achieve our goals. <br>
 
-Resources: <br>
-MongoDB <br>
-MkDocs <br>
-Viola <br>
+**Resources**: <br>
+* MongoDB <br>
+* MkDocs <br>
+* Viola <br>
 
-Milestones: <br>
+**Milestones**: <br>
 Interim Report (Nov 12, 2020) <br>
 Website and Final Report (Dec 10, 2020) <br>
 Notebooks and Other Supporting Materials (Dec 10, 2020) <br>
@@ -31,9 +31,9 @@ We plan to retrieve data from: <br>
 * https://www.mlb.com/ <br>
 * https://www.baseball-reference.com/ <br>
 We plan to use: <br>
-https://www.mongodb.com/ <br>
-http://palmetto.clemson.edu/ <br>
-https://www.palmetto.clemson.edu/jhub/hub/ <br>
-https://www.mkdocs.org/ <br>
-https://voila.readthedocs.io/en/stable/ <br>
+* https://www.mongodb.com/ <br>
+* http://palmetto.clemson.edu/ <br>
+* https://www.palmetto.clemson.edu/jhub/hub/ <br>
+* https://www.mkdocs.org/ <br>
+* https://voila.readthedocs.io/en/stable/ <br>
 
