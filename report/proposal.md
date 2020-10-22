@@ -18,19 +18,19 @@ We plan to have roughly 1-2 2-hour work period(s) every week on Monday/Wednesday
 **Resources**: <br>
 * MongoDB <br>
 * MkDocs <br>
-* Viola <br>
+* Viola <br> <br>
 
 **Milestones**: <br>
-Interim Report (Nov 12, 2020) <br>
-Website and Final Report (Dec 10, 2020) <br>
-Notebooks and Other Supporting Materials (Dec 10, 2020) <br>
-Team Evaluation (Dec 13, 2020) <br>
+* Interim Report (Nov 12, 2020) <br>
+* Website and Final Report (Dec 10, 2020) <br>
+* Notebooks and Other Supporting Materials (Dec 10, 2020) <br>
+* Team Evaluation (Dec 13, 2020) <br>
  
 
 # References:
 We plan to retrieve data from: <br>
 * https://www.mlb.com/ <br>
-* https://www.baseball-reference.com/ <br>
+* https://www.baseball-reference.com/ <br> <br>
 We plan to use: <br>
 * https://www.mongodb.com/ <br>
 * http://palmetto.clemson.edu/ <br>
