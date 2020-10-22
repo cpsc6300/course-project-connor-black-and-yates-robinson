@@ -12,7 +12,8 @@ Every year the Home Run Leader title is a hotly contested title as many of the b
 # Plan
 Our plan to accomplish this prediction is to find the current longest active player in the MLB and based on that we will grab all data (batting average, home runs, games played, etc.) from that point forward for all current players in the MLB. Along with this we will get data of all past home run title winners to create a baseline for stats of a home run title winner. With our current player data we will find the trend for each player and predict their stats in all for the 2021 MLB season. Using the baseline generated from past title winners, we will be able to see which players, based on prediction, have the best chance of winning the title in the 2021 season and how many home runs they will hit. <br>
 
-Meeting Times: We plan to have roughly 1-2 2-hour work period(s) every week on Monday/Wednesday to achieve our goals. <br>
+**Meeting Times**: <br>
+We plan to have roughly 1-2 2-hour work period(s) every week on Monday/Wednesday to achieve our goals. <br>
 
 **Resources**: <br>
 * MongoDB <br>
