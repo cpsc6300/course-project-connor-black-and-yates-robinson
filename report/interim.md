@@ -32,23 +32,26 @@ We currently feel our data points previously selected are a good starting point 
 
 # Project Progress
 Our plan to accomplish this prediction is to find the current longest active player in the MLB and based on that we will grab all data (batting average, home runs, games played, etc.) from that point forward for all current players in the MLB. Along with this we will get data of all past home run title winners to create a baseline for stats of a home run title winner. With our current player data we will find the trend for each player and predict their stats in all for the 2021 MLB season. Using the baseline generated from past title winners, we will be able to see which players, based on prediction, have the best chance of winning the title in the 2021 season and how many home runs they will hit.
+
 Meeting Times:
 We plan to have roughly 1-2 2-hour work period(s) every week on Monday/Wednesday to achieve our goals.
+
 Resources:
-MongoDB
-MkDocs
-Viola
+- MongoDB
+- MkDocs
+- Viola
 
 
 Milestones:
-Website and Final Report (Dec 10, 2020)
-Notebooks and Other Supporting Materials (Dec 10, 2020)
-Team Evaluation (Dec 13, 2020)
+- Website and Final Report (Dec 10, 2020)
+- Notebooks and Other Supporting Materials (Dec 10, 2020)
+- Team Evaluation (Dec 13, 2020)
 
 # References:
 We plan to retrieve data from:
 - https://www.mlb.com/ 
 - https://www.baseball-reference.com/ 
+
 We plan to use:
 - https://www.mongodb.com/ 
 - http://palmetto.clemson.edu/ 
